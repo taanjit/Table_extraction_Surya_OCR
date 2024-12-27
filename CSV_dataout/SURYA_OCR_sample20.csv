@@ -1,0 +1,22 @@
+,0,1,2,3,4,5
+0,,,,b,,
+1,,,Nucleoside-Naive,,Lamivudine-Refractory,Lamivudine-Refractory
+2,,,BARACLUDE,Lamivudine,BARACLUDE,Lamivudine
+3,,,0.5 mg,100 mg,l mg,100 mg
+4,Test,,n=679,n=668,n=183,n=190
+5,Any Grade 3-4,,,,,
+6,,d,35%,36%,37%,45%
+7,laboratory abnormality,laboratory abnormality,35%,36%,37%,45%
+8,ALT >10 X ULN and >2,,2%,4%,2%,11%
+9,X baseline,,2%,4%,2%,11%
+10,ALT >5.0 X ULN,,11%,16%,12%,24%
+11,Albumin <2.5 g/dL,,<1%,<1%,0,2%
+12,ULN,,2%,2%,3%,2%
+13,Lipase ≥2.1 X ULN,,7%,6%,7%,7%
+14,Creatinine >3.0 X ULN,Creatinine >3.0 X ULN,0,O,0,0
+15,Confirmed creatinine,,l %,1%,2%,1%
+16,increase ≥0.5 mg/dL,,l %,1%,2%,1%
+17,>250 mg/dL,,2%,1%,3%,1%
+18,Glycosuria,,4%,3%,4%,6%
+19,Hematuria,,9%,10%,9%,6%
+20,"Platelets <50,000/mm",3,<1%,<1%,<1%,<1%

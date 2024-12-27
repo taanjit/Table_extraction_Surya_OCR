@@ -1,0 +1,51 @@
+# Environment files
+.env
+*.env
+.env.*
+env/
+environment.txt #or any other name you use
+
+# Python virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Log files
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info
+
+# IDE specific files
+.idea/ # IntelliJ IDEA
+.vscode/ # Visual Studio Code
+*.suo # Visual Studio
+*.user # Visual Studio
+*.swp # Vim swap files
+
+# other files you dont want to commit
+config.ini
+secrets.json
+
+# image files
+*.png, *.jpeg, *.jpeg
+
+
+
+
+
+
+
+
+
+
+
+
